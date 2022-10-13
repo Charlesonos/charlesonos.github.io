@@ -4,9 +4,6 @@ permalink: "/about me/"
 layout: page
 ---
 
-## Installation (jekyll-remote-theme method)
-
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
 
 ```yaml
 remote_theme: niklasbuschmann/contrast@v2.11
