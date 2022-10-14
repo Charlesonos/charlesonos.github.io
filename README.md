@@ -5,7 +5,6 @@ layout: page
 ---
 
 
-```yaml
 
 
 # My Name is Charles Okoruwa Onamudiana
