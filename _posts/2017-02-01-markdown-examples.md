@@ -3,7 +3,7 @@ title:  "INTRODUCTION"
 layout: post
 ---
 ## Welcome
-Hello there! Welcome to my site.
+- Hello there! Welcome to my site.
 To learn about me, go to [About me]([sololearn.com](https://charlesonos.github.io/about%20me/)) section to learn more about me.
 This website is my personal potfolio to showcase the litte progress i am making in Cyber security industry and some coures that i am taking here at GVSU. 
 CIS 641 (System Analysis and Design) is one of the courses i am cureently taking.
