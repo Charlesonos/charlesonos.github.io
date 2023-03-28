@@ -3,11 +3,7 @@ title:  "INTRODUCTION"
 layout: post
 ---
 ## Welcome
-- Hello there! Welcome to my site.
-To learn about me, go to about me section to learn more about me.
-This website is my personal potfolio to showcase the litte progress i am making in my M.Sc Cyber security study program and some courses that i am taking here at GVSU. 
-CIS641 (System Analysis and Design) is one of the courses i am cureently taking.
-I and my team members are currently embarking on a project to buld a web based library search engine. It's an open source website that will be designed to help people (especially sudents) to search for books, add to personal list if they have an account and are logged into the system. This tool will really be helpful to people who find it difficult to get FREE books to read. We hope to generate income from the traffic. People will be able to advertise their contents by paying a token to get their ads diplayed.This is what we intend to achieve. We believe it is a great project. What do you think?
+- Hello there! Welcome to my site. To learn more about me, please visit the "About Me" section. This website serves as my personal website to showcase the progress I am making in my M.Sc Cybersecurity program, along with some courses that I am taking at GVSU. One of the courses I am currently enrolled in is CIS641 (System Analysis and Design), where my team and I are embarking on a project to build a web-based library search tool. It will be an open-source website designed to help people, especially students, search for books and add them to a personal list if they have an account and are logged into the system. This tool will be especially helpful for those who find it difficult to access free books to read. We hope to generate income from the traffic by allowing people to advertise their content by paying a small fee to have their ads displayed. We believe this is a great project and are excited to achieve our goals. What do you think?
 
 Click [HERE](https://tinyzhen.github.io/CIS641-Project-Team-Algorithm/) to visit our project webpage.
 
